@@ -1,0 +1,834 @@
+[
+    {
+        "country": "AF",
+        "paper_count": 1306
+    },
+    {
+        "country": "AL",
+        "paper_count": 1942
+    },
+    {
+        "country": "DZ",
+        "paper_count": 13643
+    },
+    {
+        "country": "AS",
+        "paper_count": 22
+    },
+    {
+        "country": "AD",
+        "paper_count": 56
+    },
+    {
+        "country": "AO",
+        "paper_count": 540
+    },
+    {
+        "country": "AG",
+        "paper_count": 846
+    },
+    {
+        "country": "AR",
+        "paper_count": 27677
+    },
+    {
+        "country": "AM",
+        "paper_count": 3085
+    },
+    {
+        "country": "AW",
+        "paper_count": 62
+    },
+    {
+        "country": "AU",
+        "paper_count": 149187
+    },
+    {
+        "country": "AT",
+        "paper_count": 44160
+    },
+    {
+        "country": "AZ",
+        "paper_count": 4575
+    },
+    {
+        "country": "BS",
+        "paper_count": 161
+    },
+    {
+        "country": "BH",
+        "paper_count": 2273
+    },
+    {
+        "country": "BD",
+        "paper_count": 24876
+    },
+    {
+        "country": "BB",
+        "paper_count": 376
+    },
+    {
+        "country": "BY",
+        "paper_count": 4576
+    },
+    {
+        "country": "BE",
+        "paper_count": 56468
+    },
+    {
+        "country": "BZ",
+        "paper_count": 71
+    },
+    {
+        "country": "BJ",
+        "paper_count": 2024
+    },
+    {
+        "country": "BT",
+        "paper_count": 351
+    },
+    {
+        "country": "BO",
+        "paper_count": 2069
+    },
+    {
+        "country": "BA",
+        "paper_count": 3403
+    },
+    {
+        "country": "BW",
+        "paper_count": 1324
+    },
+    {
+        "country": "BR",
+        "paper_count": 213361
+    },
+    {
+        "country": "VG",
+        "paper_count": 85
+    },
+    {
+        "country": "BN",
+        "paper_count": 1717
+    },
+    {
+        "country": "BG",
+        "paper_count": 10922
+    },
+    {
+        "country": "BF",
+        "paper_count": 1894
+    },
+    {
+        "country": "BI",
+        "paper_count": 814
+    },
+    {
+        "country": "CV",
+        "paper_count": 102
+    },
+    {
+        "country": "KH",
+        "paper_count": 2879
+    },
+    {
+        "country": "CM",
+        "paper_count": 5710
+    },
+    {
+        "country": "CA",
+        "paper_count": 173890
+    },
+    {
+        "country": "KY",
+        "paper_count": 162
+    },
+    {
+        "country": "TD",
+        "paper_count": 277
+    },
+    {
+        "country": "CL",
+        "paper_count": 28068
+    },
+    {
+        "country": "CN",
+        "paper_count": 1096429
+    },
+    {
+        "country": "CO",
+        "paper_count": 29679
+    },
+    {
+        "country": "KM",
+        "paper_count": 0
+    },
+    {
+        "country": "CD",
+        "paper_count": 1895
+    },
+    {
+        "country": "CG",
+        "paper_count": 822
+    },
+    {
+        "country": "CR",
+        "paper_count": 4715
+    },
+    {
+        "country": "CI",
+        "paper_count": 2287
+    },
+    {
+        "country": "HR",
+        "paper_count": 13245
+    },
+    {
+        "country": "CU",
+        "paper_count": 3074
+    },
+    {
+        "country": "CW",
+        "paper_count": 276
+    },
+    {
+        "country": "CY",
+        "paper_count": 8089
+    },
+    {
+        "country": "CZ",
+        "paper_count": 36329
+    },
+    {
+        "country": "DK",
+        "paper_count": 51927
+    },
+    {
+        "country": "DJ",
+        "paper_count": 85
+    },
+    {
+        "country": "DM",
+        "paper_count": 44
+    },
+    {
+        "country": "DO",
+        "paper_count": 853
+    },
+    {
+        "country": "EC",
+        "paper_count": 17294
+    },
+    {
+        "country": "EG",
+        "paper_count": 62544
+    },
+    {
+        "country": "SV",
+        "paper_count": 692
+    },
+    {
+        "country": "GQ",
+        "paper_count": 18
+    },
+    {
+        "country": "ER",
+        "paper_count": 105
+    },
+    {
+        "country": "EE",
+        "paper_count": 5575
+    },
+    {
+        "country": "SZ",
+        "paper_count": 231
+    },
+    {
+        "country": "ET",
+        "paper_count": 15288
+    },
+    {
+        "country": "FO",
+        "paper_count": 152
+    },
+    {
+        "country": "FJ",
+        "paper_count": 669
+    },
+    {
+        "country": "FI",
+        "paper_count": 33227
+    },
+    {
+        "country": "FR",
+        "paper_count": 231749
+    },
+    {
+        "country": "PF",
+        "paper_count": 284
+    },
+    {
+        "country": "GA",
+        "paper_count": 407
+    },
+    {
+        "country": "GM",
+        "paper_count": 539
+    },
+    {
+        "country": "GE",
+        "paper_count": 3318
+    },
+    {
+        "country": "DE",
+        "paper_count": 296526
+    },
+    {
+        "country": "GH",
+        "paper_count": 10302
+    },
+    {
+        "country": "GI",
+        "paper_count": 48
+    },
+    {
+        "country": "GR",
+        "paper_count": 34975
+    },
+    {
+        "country": "GD",
+        "paper_count": 564
+    },
+    {
+        "country": "GT",
+        "paper_count": 1484
+    },
+    {
+        "country": "GN",
+        "paper_count": 417
+    },
+    {
+        "country": "GW",
+        "paper_count": 111
+    },
+    {
+        "country": "GY",
+        "paper_count": 298
+    },
+    {
+        "country": "HT",
+        "paper_count": 194
+    },
+    {
+        "country": "HN",
+        "paper_count": 847
+    },
+    {
+        "country": "HK",
+        "paper_count": 49745
+    },
+    {
+        "country": "HU",
+        "paper_count": 24790
+    },
+    {
+        "country": "IS",
+        "paper_count": 3093
+    },
+    {
+        "country": "IN",
+        "paper_count": 379134
+    },
+    {
+        "country": "ID",
+        "paper_count": 358646
+    },
+    {
+        "country": "IR",
+        "paper_count": 81816
+    },
+    {
+        "country": "IQ",
+        "paper_count": 34067
+    },
+    {
+        "country": "IE",
+        "paper_count": 26825
+    },
+    {
+        "country": "IM",
+        "paper_count": 18
+    },
+    {
+        "country": "IL",
+        "paper_count": 34320
+    },
+    {
+        "country": "IT",
+        "paper_count": 195124
+    },
+    {
+        "country": "JM",
+        "paper_count": 617
+    },
+    {
+        "country": "JP",
+        "paper_count": 184029
+    },
+    {
+        "country": "JO",
+        "paper_count": 13207
+    },
+    {
+        "country": "KZ",
+        "paper_count": 12903
+    },
+    {
+        "country": "KE",
+        "paper_count": 11159
+    },
+    {
+        "country": "KI",
+        "paper_count": 20
+    },
+    {
+        "country": "KP",
+        "paper_count": 149
+    },
+    {
+        "country": "KR",
+        "paper_count": 123061
+    },
+    {
+        "country": null,
+        "paper_count": 0
+    },
+    {
+        "country": "KW",
+        "paper_count": 4234
+    },
+    {
+        "country": "KG",
+        "paper_count": 1366
+    },
+    {
+        "country": "LA",
+        "paper_count": 436
+    },
+    {
+        "country": "LV",
+        "paper_count": 5259
+    },
+    {
+        "country": "LB",
+        "paper_count": 8109
+    },
+    {
+        "country": "LS",
+        "paper_count": 230
+    },
+    {
+        "country": "LR",
+        "paper_count": 195
+    },
+    {
+        "country": "LY",
+        "paper_count": 1864
+    },
+    {
+        "country": "LI",
+        "paper_count": 397
+    },
+    {
+        "country": "LT",
+        "paper_count": 7415
+    },
+    {
+        "country": "LU",
+        "paper_count": 4258
+    },
+    {
+        "country": "MG",
+        "paper_count": 867
+    },
+    {
+        "country": "MW",
+        "paper_count": 1663
+    },
+    {
+        "country": "MY",
+        "paper_count": 61135
+    },
+    {
+        "country": "MV",
+        "paper_count": 193
+    },
+    {
+        "country": "ML",
+        "paper_count": 1193
+    },
+    {
+        "country": "MT",
+        "paper_count": 1876
+    },
+    {
+        "country": "MH",
+        "paper_count": 0
+    },
+    {
+        "country": "MR",
+        "paper_count": 151
+    },
+    {
+        "country": "MU",
+        "paper_count": 575
+    },
+    {
+        "country": "MX",
+        "paper_count": 58037
+    },
+    {
+        "country": "FM",
+        "paper_count": 29
+    },
+    {
+        "country": "MD",
+        "paper_count": 2848
+    },
+    {
+        "country": "MC",
+        "paper_count": 324
+    },
+    {
+        "country": "MN",
+        "paper_count": 2529
+    },
+    {
+        "country": "ME",
+        "paper_count": 899
+    },
+    {
+        "country": "MA",
+        "paper_count": 19821
+    },
+    {
+        "country": "MZ",
+        "paper_count": 2534
+    },
+    {
+        "country": "MM",
+        "paper_count": 880
+    },
+    {
+        "country": "NA",
+        "paper_count": 1057
+    },
+    {
+        "country": "NR",
+        "paper_count": 0
+    },
+    {
+        "country": "NP",
+        "paper_count": 10404
+    },
+    {
+        "country": "NL",
+        "paper_count": 99610
+    },
+    {
+        "country": "NC",
+        "paper_count": 340
+    },
+    {
+        "country": "NZ",
+        "paper_count": 22647
+    },
+    {
+        "country": "NI",
+        "paper_count": 759
+    },
+    {
+        "country": "NE",
+        "paper_count": 651
+    },
+    {
+        "country": "NG",
+        "paper_count": 40809
+    },
+    {
+        "country": "MK",
+        "paper_count": 3031
+    },
+    {
+        "country": "NO",
+        "paper_count": 40805
+    },
+    {
+        "country": "OM",
+        "paper_count": 4796
+    },
+    {
+        "country": "PK",
+        "paper_count": 60292
+    },
+    {
+        "country": "PW",
+        "paper_count": 59
+    },
+    {
+        "country": "PA",
+        "paper_count": 2196
+    },
+    {
+        "country": "PG",
+        "paper_count": 337
+    },
+    {
+        "country": "PY",
+        "paper_count": 2006
+    },
+    {
+        "country": "PE",
+        "paper_count": 18146
+    },
+    {
+        "country": "PH",
+        "paper_count": 16207
+    },
+    {
+        "country": "PL",
+        "paper_count": 84045
+    },
+    {
+        "country": "PT",
+        "paper_count": 52175
+    },
+    {
+        "country": "QA",
+        "paper_count": 8624
+    },
+    {
+        "country": "RO",
+        "paper_count": 27511
+    },
+    {
+        "country": "RU",
+        "paper_count": 161984
+    },
+    {
+        "country": "RW",
+        "paper_count": 1724
+    },
+    {
+        "country": "WS",
+        "paper_count": 79
+    },
+    {
+        "country": "SM",
+        "paper_count": 70
+    },
+    {
+        "country": "ST",
+        "paper_count": 424
+    },
+    {
+        "country": "SA",
+        "paper_count": 71457
+    },
+    {
+        "country": "SN",
+        "paper_count": 2340
+    },
+    {
+        "country": "RS",
+        "paper_count": 13987
+    },
+    {
+        "country": "SC",
+        "paper_count": 87
+    },
+    {
+        "country": "SL",
+        "paper_count": 508
+    },
+    {
+        "country": "SG",
+        "paper_count": 33537
+    },
+    {
+        "country": "SX",
+        "paper_count": 100
+    },
+    {
+        "country": "SK",
+        "paper_count": 12167
+    },
+    {
+        "country": "SI",
+        "paper_count": 10588
+    },
+    {
+        "country": "SB",
+        "paper_count": 23
+    },
+    {
+        "country": "SO",
+        "paper_count": 437
+    },
+    {
+        "country": "SS",
+        "paper_count": 2202
+    },
+    {
+        "country": "ES",
+        "paper_count": 174731
+    },
+    {
+        "country": "LK",
+        "paper_count": 6924
+    },
+    {
+        "country": "KN",
+        "paper_count": 361
+    },
+    {
+        "country": "LC",
+        "paper_count": 77
+    },
+    {
+        "country": "MF",
+        "paper_count": 0
+    },
+    {
+        "country": "VC",
+        "paper_count": 23
+    },
+    {
+        "country": "SD",
+        "paper_count": 3188
+    },
+    {
+        "country": "SR",
+        "paper_count": 182
+    },
+    {
+        "country": "SE",
+        "paper_count": 63155
+    },
+    {
+        "country": "CH",
+        "paper_count": 81407
+    },
+    {
+        "country": "SY",
+        "paper_count": 1943
+    },
+    {
+        "country": "TJ",
+        "paper_count": 3748
+    },
+    {
+        "country": "TZ",
+        "paper_count": 5858
+    },
+    {
+        "country": "TH",
+        "paper_count": 30239
+    },
+    {
+        "country": "TL",
+        "paper_count": 208
+    },
+    {
+        "country": "TG",
+        "paper_count": 860
+    },
+    {
+        "country": "TO",
+        "paper_count": 38
+    },
+    {
+        "country": "TT",
+        "paper_count": 812
+    },
+    {
+        "country": "TN",
+        "paper_count": 13610
+    },
+    {
+        "country": "TR",
+        "paper_count": 138266
+    },
+    {
+        "country": "TM",
+        "paper_count": 355
+    },
+    {
+        "country": "TC",
+        "paper_count": 58
+    },
+    {
+        "country": "TV",
+        "paper_count": 4
+    },
+    {
+        "country": "UG",
+        "paper_count": 5974
+    },
+    {
+        "country": "UA",
+        "paper_count": 50501
+    },
+    {
+        "country": "AE",
+        "paper_count": 21037
+    },
+    {
+        "country": "GB",
+        "paper_count": 330715
+    },
+    {
+        "country": "US",
+        "paper_count": 1159821
+    },
+    {
+        "country": "UY",
+        "paper_count": 4430
+    },
+    {
+        "country": "UZ",
+        "paper_count": 14892
+    },
+    {
+        "country": "VU",
+        "paper_count": 45
+    },
+    {
+        "country": "VE",
+        "paper_count": 3439
+    },
+    {
+        "country": "VN",
+        "paper_count": 24531
+    },
+    {
+        "country": "VI",
+        "paper_count": 133
+    },
+    {
+        "country": "PS",
+        "paper_count": 2962
+    },
+    {
+        "country": "YE",
+        "paper_count": 3708
+    },
+    {
+        "country": "ZM",
+        "paper_count": 2476
+    },
+    {
+        "country": "ZW",
+        "paper_count": 2863
+    }
+]
