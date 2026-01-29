@@ -1,7 +1,7 @@
 ## 📌 Project Overview
 This project challenges the traditional "volume-based" ranking of global research.While large economies like the **USA** and **China** dominate total publication counts due to their sheer economic scale, this "Giant bias" often overlooks smaller, highly efficient nations.We integrated socioeconomic indicators from **The World Bank** with real-time publication data from the **OpenAlex API** to identify "Specialist" nations—those that produce exceptional research output relative to their population and GDP.
 ---
-[cite_start]**Full Technical Report:** [📄 Giants vs. Specialists Analysis (PDF)](./Data_in_the_Wild_Giants_vs_Specialists_2023.pdf)
+**Full Technical Report:** [📄 Giants vs. Specialists Analysis (PDF)](Data%20in%20the%20Wild%20A%20Comparative%20Analysis%20of%20Scientific%20Output%20(2023).pdf)
 * **The Efficiency Metric:** A custom-weighted score designed to penalize pure scale and reward intensive productivity.Weights were derived from Pearson correlation coefficients to account for the "expected" output of a nation based on its wealth and size.
 
 * **Missing Data Strategy (MICE):** Handled missing data using **Multivariate Imputation by Chained Equations**,and feature driven methods ensuring data consistency across development profiles.
