@@ -1,53 +1,34 @@
 ## 📌 Project Overview
-[cite_start]This project challenges the traditional "volume-based" ranking of global research[cite: 22, 103]. [cite_start]While large economies like the **USA** and **China** dominate total publication counts due to their sheer economic scale, this "Giant bias" often overlooks smaller, highly efficient nations[cite: 22]. [cite_start]We integrated socioeconomic indicators from **The World Bank** with real-time publication data from the **OpenAlex API** to identify "Specialist" nations—those that produce exceptional research output relative to their population and GDP [cite: 23, 28-34].
+This project challenges the traditional "volume-based" ranking of global research.While large economies like the **USA** and **China** dominate total publication counts due to their sheer economic scale, this "Giant bias" often overlooks smaller, highly efficient nations.We integrated socioeconomic indicators from **The World Bank** with real-time publication data from the **OpenAlex API** to identify "Specialist" nations—those that produce exceptional research output relative to their population and GDP.
 
 ---
 
 ## 🧪 Key Methodology
-* [cite_start]**The Efficiency Metric:** A custom-weighted score designed to penalize pure scale and reward intensive productivity[cite: 104, 106]. [cite_start]Weights were derived from Pearson correlation coefficients to account for the "expected" output of a nation based on its wealth and size[cite: 108, 535].
+* **The Efficiency Metric:** A custom-weighted score designed to penalize pure scale and reward intensive productivity.Weights were derived from Pearson correlation coefficients to account for the "expected" output of a nation based on its wealth and size.
 
-* [cite_start]**Missing Data Strategy (MICE):** Handled missing tertiary enrollment data using **Multivariate Imputation by Chained Equations** (10 iterations), ensuring data consistency across development profiles[cite: 92, 98, 575].
+* **Missing Data Strategy (MICE):** Handled missing tertiary enrollment data using **Multivariate Imputation by Chained Equations** (10 iterations), ensuring data consistency across development profiles.
 
 * **Advanced Dimensionality Reduction:**
-    * [cite_start]**PCA:** Created a "Development Index" capturing **57.31% of data variance**[cite: 483, 484].
-    * [cite_start]**UMAP:** Identified non-linear "Geopolitical Neighborhoods," revealing that development is geographically clustered [cite: 471-475].
+    * **PCA:** Created a "Development Index" capturing **57.31% of data variance**.
+    * **UMAP:** Identified non-linear "Geopolitical Neighborhoods," revealing that development is geographically clustered.
 
 
 ---
 
 ## 📊 Core Findings
-* [cite_start]**The Specialist Rise:** When adjusted for scale, nations like **Lebanon, Cyprus, and Denmark** emerge as global leaders in research efficiency[cite: 219].
-* [cite_start]**Field Nuance:** AI efficiency is heavily tied to digital infrastructure (**Internet Users**), whereas Medicine and Environmental research are often driven by regional necessity rather than just wealth[cite: 532, 533, 536].
-* [cite_start]**The Scale Paradox:** We found a consistent **negative correlation** between population size and research efficiency ($-0.08$ to $-0.11$), suggesting that massive scale can lead to "efficiency friction"[cite: 537, 548, 569].
+* **The Specialist Rise:** When adjusted for scale, nations like **Lebanon, Cyprus, and Denmark** emerge as global leaders in research efficiency.
+* **Field Nuance:** AI efficiency is heavily tied to digital infrastructure (**Internet Users**), whereas Medicine and Environmental research are often driven by regional necessity rather than just wealth.
+* **The Scale Paradox:** We found a consistent **negative correlation** between population size and research efficiency ($-0.08$ to $-0.11$), suggesting that massive scale can lead to "efficiency friction".
 
 ---
 
 ## 🛠️ Tech Stack
 * **Python:** `Pandas`, `NumPy`, `Scikit-learn` (MICE/IterativeImputer, PCA).
 * **Visualization:** `Plotly`, `Seaborn` (Spearman & Pearson Heatmaps).
-* [cite_start]**API:** `OpenAlex` (Programmatic retrieval of 2023 research counts)[cite: 34].
+* **API:** `OpenAlex` (Programmatic retrieval of 2023 research counts).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Global Drivers of Research Efficiency (2023)
+# How to run
 
 ## How to setup
 First, clone the repository:
