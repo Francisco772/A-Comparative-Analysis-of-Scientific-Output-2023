@@ -3,10 +3,10 @@ This project challenges the traditional "volume-based" ranking of global researc
 
 ---
 
-## 🧪 Key Methodology
+## Key Methodology
 * **The Efficiency Metric:** A custom-weighted score designed to penalize pure scale and reward intensive productivity.Weights were derived from Pearson correlation coefficients to account for the "expected" output of a nation based on its wealth and size.
 
-* **Missing Data Strategy (MICE):** Handled missing tertiary enrollment data using **Multivariate Imputation by Chained Equations** (10 iterations), ensuring data consistency across development profiles.
+* **Missing Data Strategy (MICE):** Handled missing data using **Multivariate Imputation by Chained Equations**,and feature driven methods ensuring data consistency across development profiles.
 
 * **Advanced Dimensionality Reduction:**
     * **PCA:** Created a "Development Index" capturing **57.31% of data variance**.
