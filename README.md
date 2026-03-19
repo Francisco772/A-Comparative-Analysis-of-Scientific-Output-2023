@@ -13,14 +13,14 @@ This project challenges the traditional "volume-based" ranking of global researc
 
 ---
 
-## 📊 Core Findings
+##  Core Findings
 * **The Specialist Rise:** When adjusted for scale, nations like **Lebanon, Cyprus, and Denmark** emerge as global leaders in research efficiency.
 * **Field Nuance:** AI efficiency is heavily tied to digital infrastructure (**Internet Users**), whereas Medicine and Environmental research are often driven by regional necessity rather than just wealth.
 * **The Scale Paradox:** We found a consistent **negative correlation** between population size and research efficiency ($-0.08$ to $-0.11$), suggesting that massive scale can lead to "efficiency friction".
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Python:** `Pandas`, `NumPy`, `Scikit-learn` (MICE/IterativeImputer, PCA).
 * **Visualization:** `Plotly`, `Seaborn` (Spearman & Pearson Heatmaps).
 * **API:** `OpenAlex` (Programmatic retrieval of 2023 research counts).
